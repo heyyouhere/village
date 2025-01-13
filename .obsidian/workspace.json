@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Первая сцена.md",
+                "file": "Scenes/Пролог.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Первая сцена.md",
+                "file": "Scenes/Пролог.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f20c7fdf178668a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenes/Пролог.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "b6fa8c4074f7a654",
@@ -128,7 +140,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Villagers.md",
+                "file": "NPC/NPC ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c98366baf5bf3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenes/Scenes ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenes/Первая сцена.md",
+                "file": "Scenes/Пролог.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenes/Первая сцена.md",
+                "file": "Scenes/Пролог.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenes/Первая сцена.md"
+                "file": "Scenes/Пролог.md"
               }
             }
           }
@@ -261,15 +285,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c07c61c96209629",
+  "active": "1f20c7fdf178668a",
   "lastOpenFiles": [
-    "Корнет.md",
-    "Scenes/Первая сцена.md",
+    "push_git.bat",
     "Scenes/Scenes ideas.md",
-    "NPC/Взрослые дети.md",
-    "NPC/Villagers.md",
-    "NPC/Глухой музыкант.md",
+    "NPC/NPC ideas.md",
+    "NPC/Улитка.md",
+    "Scenes/Пролог.md",
+    "Деревня.md",
     "NPC/Лесничий.md",
+    "NPC/Взрослые дети.md",
+    "NPC/Глухой музыкант.md",
+    "Корнет.md",
     "Untitled",
     "NPC/Вожатый деревни.md",
     "Rules of writing.md",

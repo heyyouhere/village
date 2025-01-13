@@ -1,4 +1,4 @@
-Villagers:
+# Villagers
 -  Burgomister
 -  Lesnichey/Hunter
 -  Buisness-man father of 8 daughters
@@ -15,9 +15,7 @@ Villagers:
 -  Язычник
 - Мужик со смайликом на лице
 -  Юный врач, который приехал на стажировку
-
-
-Friendly Critters:
+# Friendly Critters
 -  Living Statue
 -  Черт
 -  Пугало
