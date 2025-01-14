@@ -6,6 +6,7 @@
       {
         "id": "6c824379eecd7816",
         "type": "tabs",
+        "dimension": 50.57565789473685,
         "children": [
           {
             "id": "10d56cb8c6924d47",
@@ -133,6 +134,7 @@
       {
         "id": "b6fa8c4074f7a654",
         "type": "tabs",
+        "dimension": 49.42434210526316,
         "children": [
           {
             "id": "c5c5ec8c6b27781e",
@@ -287,12 +289,12 @@
   },
   "active": "1f20c7fdf178668a",
   "lastOpenFiles": [
-    "push_git.bat",
     "Scenes/Scenes ideas.md",
-    "NPC/NPC ideas.md",
-    "NPC/Улитка.md",
     "Scenes/Пролог.md",
+    "NPC/Улиткин.md",
+    "NPC/NPC ideas.md",
     "Деревня.md",
+    "push_git.bat",
     "NPC/Лесничий.md",
     "NPC/Взрослые дети.md",
     "NPC/Глухой музыкант.md",
