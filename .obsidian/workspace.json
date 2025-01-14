@@ -6,7 +6,7 @@
       {
         "id": "6c824379eecd7816",
         "type": "tabs",
-        "dimension": 50.57565789473685,
+        "dimension": 72.03947368421053,
         "children": [
           {
             "id": "10d56cb8c6924d47",
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Пролог.md",
+                "file": "Scenes/0. Пролог.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Пролог.md",
+                "file": "Scenes/0. Пролог.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Пролог.md",
+                "file": "Scenes/Общая структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a97b31e1ba3bcf61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/NPC ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,12 +141,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "b6fa8c4074f7a654",
         "type": "tabs",
-        "dimension": 49.42434210526316,
+        "dimension": 27.960526315789476,
         "children": [
           {
             "id": "c5c5ec8c6b27781e",
@@ -154,13 +166,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Scenes ideas.md",
+                "file": "NPC/NPC ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenes/Пролог.md",
+                "file": "NPC/NPC ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenes/Пролог.md",
+                "file": "NPC/NPC ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,11 +279,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenes/Пролог.md"
+                "file": "NPC/NPC ideas.md"
               }
             }
+          },
+          {
+            "id": "cb479643dbc519e7",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -287,24 +309,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f20c7fdf178668a",
+  "active": "a97b31e1ba3bcf61",
   "lastOpenFiles": [
     "Scenes/Scenes ideas.md",
-    "Scenes/Пролог.md",
+    "Scenes/Общая структура.md",
+    "Scenes/3. Акт третий..md",
+    "Scenes/2. Акт второй. Берегись своих желаний..md",
+    "Scenes/1. Акт первый. Вас тут не ждали.md",
+    "NPC/Люда.md",
     "NPC/Улиткин.md",
+    "Scenes/0. Пролог.md",
+    "NPC/Почтальон.md",
     "NPC/NPC ideas.md",
+    "NPC/Глухой музыкант.md",
+    "NPC/Лесничий.md",
+    "NPC/Вожатый деревни.md",
+    "NPC/Взрослые дети.md",
+    "Pasted image 20250114155509.png",
+    "Pasted image 20250114155429.png",
+    "Rules of writing.md",
+    "Settings truth.md",
+    "Pasted image 20250114145057.png",
+    "Референсы (не разобранные).md",
+    "Корнет.md",
     "Деревня.md",
     "push_git.bat",
-    "NPC/Лесничий.md",
-    "NPC/Взрослые дети.md",
-    "NPC/Глухой музыкант.md",
-    "Корнет.md",
     "Untitled",
-    "NPC/Вожатый деревни.md",
-    "Rules of writing.md",
     "NPC",
     "Scenes",
-    "Settings truth.md",
     "Welcome.md"
   ]
 }
