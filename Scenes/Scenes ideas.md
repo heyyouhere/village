@@ -1,12 +1,13 @@
 # Поиграть с Взрослыми детьми в Футбол
-Пнув 
+Мячик, который улетает в небеса
+
 
 # Включить цветное телевидение 
 
 - Empty filed with horses
 - Old bus stop with posters
 - Fence hopping to a garden
-- Village hole
+- Compost
 - Floating man
 - Sauna
 - Old gas station

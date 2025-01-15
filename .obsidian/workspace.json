@@ -6,7 +6,7 @@
       {
         "id": "6c824379eecd7816",
         "type": "tabs",
-        "dimension": 72.03947368421053,
+        "dimension": 46.29934210526316,
         "children": [
           {
             "id": "10d56cb8c6924d47",
@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Общая структура.md",
+                "file": "Scenes/Scenes ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
       {
         "id": "b6fa8c4074f7a654",
         "type": "tabs",
-        "dimension": 27.960526315789476,
+        "dimension": 53.70065789473685,
         "children": [
           {
             "id": "c5c5ec8c6b27781e",
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenes/Общая структура.md",
+                "file": "Scenes/Scenes ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenes/Общая структура.md",
+                "file": "Scenes/Scenes ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenes/Общая структура.md"
+                "file": "Scenes/Scenes ideas.md"
               }
             }
           },
@@ -311,30 +311,33 @@
   },
   "active": "a97b31e1ba3bcf61",
   "lastOpenFiles": [
-    "Scenes/1. Акт первый. Вас тут не ждали.md",
     "Scenes/Общая структура.md",
-    "Scenes/Scenes ideas.md",
-    "Scenes/0. Пролог.md",
-    "Scenes/3. Акт третий..md",
+    "NPC/NPC ideas.md",
+    "NPC/Untitled.md",
     "Scenes/2. Акт второй. Берегись своих желаний..md",
+    "Scenes/1. Акт первый. Вас тут не ждали.md",
     "NPC/Вожатый деревни.md",
     "NPC/Глухой музыкант.md",
-    "NPC/Лесничий.md",
-    "NPC/Люда.md",
-    "NPC/Почтальон.md",
-    "NPC/Улиткин.md",
-    "NPC/NPC ideas.md",
     "NPC/Взрослые дети.md",
-    "Pasted image 20250114155509.png",
-    "Pasted image 20250114155429.png",
+    "Scenes/0. Пролог.md",
+    "NPC/Журналист.md",
+    "Scenes/Scenes ideas.md",
+    "Scenes/3. Акт третий..md",
+    "NPC/Люда.md",
+    "NPC/Лесничий.md",
+    "NPC/Почтальон.md",
+    "Референсы (не разобранные).md",
+    "assets/Pasted image 20250114155509.png",
+    "Untitled.md",
+    "assets",
     "Rules of writing.md",
     "Settings truth.md",
-    "Pasted image 20250114145057.png",
-    "Референсы (не разобранные).md",
+    "NPC/Улиткин.md",
+    "assets/Pasted image 20250114155429.png",
+    "assets/Pasted image 20250114145057.png",
     "Корнет.md",
     "Деревня.md",
     "push_git.bat",
-    "Untitled",
     "NPC",
     "Scenes",
     "Welcome.md"

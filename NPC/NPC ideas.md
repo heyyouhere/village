@@ -1,5 +1,6 @@
 # Villagers
 - Burgomister
+- Женщина, которая говорит на английском
 - Lesnichey/Hunter
 - Buisness-man father of 8 daughters
 - Юродивый Васька
