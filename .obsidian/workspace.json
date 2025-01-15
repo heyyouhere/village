@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/NPC ideas.md",
+                "file": "Scenes/Общая структура.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/NPC ideas.md",
+                "file": "Scenes/Общая структура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/NPC ideas.md",
+                "file": "Scenes/Общая структура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/NPC ideas.md"
+                "file": "Scenes/Общая структура.md"
               }
             }
           },
@@ -311,19 +311,19 @@
   },
   "active": "a97b31e1ba3bcf61",
   "lastOpenFiles": [
-    "Scenes/Scenes ideas.md",
+    "Scenes/1. Акт первый. Вас тут не ждали.md",
     "Scenes/Общая структура.md",
+    "Scenes/Scenes ideas.md",
+    "Scenes/0. Пролог.md",
     "Scenes/3. Акт третий..md",
     "Scenes/2. Акт второй. Берегись своих желаний..md",
-    "Scenes/1. Акт первый. Вас тут не ждали.md",
-    "NPC/Люда.md",
-    "NPC/Улиткин.md",
-    "Scenes/0. Пролог.md",
-    "NPC/Почтальон.md",
-    "NPC/NPC ideas.md",
+    "NPC/Вожатый деревни.md",
     "NPC/Глухой музыкант.md",
     "NPC/Лесничий.md",
-    "NPC/Вожатый деревни.md",
+    "NPC/Люда.md",
+    "NPC/Почтальон.md",
+    "NPC/Улиткин.md",
+    "NPC/NPC ideas.md",
     "NPC/Взрослые дети.md",
     "Pasted image 20250114155509.png",
     "Pasted image 20250114155429.png",
