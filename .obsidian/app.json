@@ -2,6 +2,7 @@
   "vimMode": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "assets"
+  "newFileLocation": "current",
+  "newFileFolderPath": "assets",
+  "attachmentFolderPath": "assets"
 }

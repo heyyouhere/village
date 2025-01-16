@@ -1,10 +1,8 @@
+В деревне явно не хватает одного дома и видны следы, как его волокли
 # Поиграть с Взрослыми детьми в Футбол
 Мячик, который улетает в небеса
-
-
 # Включить цветное телевидение 
 
-- Empty filed with horses
 - Old bus stop with posters
 - Fence hopping to a garden
 - Compost
@@ -20,14 +18,10 @@
 - Old big tree
 - Church under water
 - Post office
-- House on a Chicken legs
-    Бабу Ягу развели мошеники, она отдала дом под залог, он теперь тут
-
-- Lighthouse with no sea around
 - Statue of someone
-- Река среди времени
-- Dom kultury/Club
 - Игра в карты
+- Кто точно отстроил себе огромный дом выше всех!
 
 
-
+![[675de5198183311e13d1943c67ee83fc.jpg]]![[675367a371b3c0910d808437048f51aa.jpg]]
+![[preview_1685f8be24e6f8b13b47aa61d352a501.jpg]]![[index4.webp]]![[i 1.webp]]

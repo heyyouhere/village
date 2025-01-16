@@ -6,7 +6,6 @@
       {
         "id": "6c824379eecd7816",
         "type": "tabs",
-        "dimension": 46.29934210526316,
         "children": [
           {
             "id": "10d56cb8c6924d47",
@@ -38,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Scenes ideas.md",
+                "file": "Деревня/Scenes ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Scenes ideas.md",
+                "file": "Деревня/Scenes ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenes/Scenes ideas.md",
+                "file": "Деревня/Дом Вожатого.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,38 +141,6 @@
           }
         ],
         "currentTab": 8
-      },
-      {
-        "id": "b6fa8c4074f7a654",
-        "type": "tabs",
-        "dimension": 53.70065789473685,
-        "children": [
-          {
-            "id": "c5c5ec8c6b27781e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/NPC ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c98366baf5bf3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/NPC ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenes/Scenes ideas.md",
+                "file": "Деревня/Дом Вожатого.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenes/Scenes ideas.md",
+                "file": "Деревня/Дом Вожатого.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenes/Scenes ideas.md"
+                "file": "Деревня/Дом Вожатого.md"
               }
             }
           },
@@ -291,12 +258,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 401.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -311,35 +277,47 @@
   },
   "active": "a97b31e1ba3bcf61",
   "lastOpenFiles": [
+    "assets/3588357-1385942837.jpg",
+    "Деревня/Клуб.md",
+    "Деревня/Футбольное поле.md",
+    "Деревня/Scenes ideas.md",
+    "Деревня/Дом Вожатого.md",
+    "Деревня/Огород с пугалом.md",
+    "NPC/Взрослые дети.md",
+    "Механики.md",
+    "Корнет.md",
+    "Scenes/3. Акт третий..md",
     "Scenes/Общая структура.md",
-    "NPC/NPC ideas.md",
-    "NPC/Untitled.md",
     "Scenes/2. Акт второй. Берегись своих желаний..md",
     "Scenes/1. Акт первый. Вас тут не ждали.md",
+    "Scenes/0. Пролог.md",
+    "Rules of writing.md",
+    "Референсы (не разобранные).md",
+    "Деревня/Автолавка.md",
+    "Деревня/Notes.md",
+    "assets/i 1.webp",
+    "assets/index4.webp",
+    "assets/preview_1685f8be24e6f8b13b47aa61d352a501.jpg",
+    "assets/675367a371b3c0910d808437048f51aa.jpg",
+    "assets/675de5198183311e13d1943c67ee83fc.jpg",
+    "assets/scale_1200.jpg",
+    "assets/861_n1578514_big.jpg",
+    "assets/1-avtolavka.width-1200.jpg",
+    "assets/02.12.22.51.jpg",
+    "assets/Pasted image 20250116153251.png",
+    "Деревня",
+    "NPC/NPC ideas.md",
+    "Механики",
+    "NPC/Untitled.md",
     "NPC/Вожатый деревни.md",
     "NPC/Глухой музыкант.md",
-    "NPC/Взрослые дети.md",
-    "Scenes/0. Пролог.md",
     "NPC/Журналист.md",
-    "Scenes/Scenes ideas.md",
-    "Scenes/3. Акт третий..md",
     "NPC/Люда.md",
     "NPC/Лесничий.md",
     "NPC/Почтальон.md",
-    "Референсы (не разобранные).md",
-    "assets/Pasted image 20250114155509.png",
-    "Untitled.md",
     "assets",
-    "Rules of writing.md",
-    "Settings truth.md",
-    "NPC/Улиткин.md",
-    "assets/Pasted image 20250114155429.png",
-    "assets/Pasted image 20250114145057.png",
-    "Корнет.md",
-    "Деревня.md",
     "push_git.bat",
     "NPC",
-    "Scenes",
-    "Welcome.md"
+    "Scenes"
   ]
 }
