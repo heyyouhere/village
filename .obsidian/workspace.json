@@ -16,7 +16,9 @@
                 "file": "Rules of writing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rules of writing"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Rules of writing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rules of writing"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Деревня/Scenes ideas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Scenes ideas"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "NPC/Глухой музыкант.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Глухой музыкант"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Деревня/Scenes ideas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Scenes ideas"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Scenes/0. Пролог.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "0. Пролог"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Scenes/0. Пролог.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "0. Пролог"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "Scenes/Общая структура.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Общая структура"
             }
           },
           {
@@ -109,10 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деревня/Дом Вожатого.md",
+                "file": "Механики.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Механики"
             }
           },
           {
@@ -124,7 +142,9 @@
                 "file": "NPC/Лесничий.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Лесничий"
             }
           },
           {
@@ -136,7 +156,9 @@
                 "file": "Rules of writing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rules of writing"
             }
           }
         ],
@@ -160,7 +182,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -175,7 +199,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -183,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -214,7 +242,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Дом Вожатого"
             }
           },
           {
@@ -226,7 +256,9 @@
                 "file": "Деревня/Дом Вожатого.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Дом Вожатого"
             }
           },
           {
@@ -237,7 +269,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -247,18 +281,43 @@
               "type": "outline",
               "state": {
                 "file": "Деревня/Дом Вожатого.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Дом Вожатого"
             }
           },
           {
             "id": "cb479643dbc519e7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6001e6ef93c5a750",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
-              "state": {}
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          },
+          {
+            "id": "c44a0262f223d2b8",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -277,23 +336,30 @@
   },
   "active": "a97b31e1ba3bcf61",
   "lastOpenFiles": [
-    "assets/3588357-1385942837.jpg",
-    "Деревня/Клуб.md",
-    "Деревня/Футбольное поле.md",
-    "Деревня/Scenes ideas.md",
-    "Деревня/Дом Вожатого.md",
-    "Деревня/Огород с пугалом.md",
-    "NPC/Взрослые дети.md",
-    "Механики.md",
-    "Корнет.md",
-    "Scenes/3. Акт третий..md",
+    "push_git.bat~",
     "Scenes/Общая структура.md",
+    "Scenes/3. Акт третий..md",
     "Scenes/2. Акт второй. Берегись своих желаний..md",
     "Scenes/1. Акт первый. Вас тут не ждали.md",
     "Scenes/0. Пролог.md",
-    "Rules of writing.md",
-    "Референсы (не разобранные).md",
+    "NPC/Почтальон.md",
+    "NPC/Лесничий.md",
+    "Деревня/Футбольное поле.md",
+    "Деревня/Scenes ideas.md",
     "Деревня/Автолавка.md",
+    "NPC/Взрослые дети.md",
+    "NPC/Вожатый деревни.md",
+    "NPC/Глухой музыкант.md",
+    "NPC/Журналист.md",
+    "NPC/Люда.md",
+    "Rules of writing.md",
+    "Деревня/Дом Вожатого.md",
+    "assets/3588357-1385942837.jpg",
+    "Деревня/Клуб.md",
+    "Деревня/Огород с пугалом.md",
+    "Механики.md",
+    "Корнет.md",
+    "Референсы (не разобранные).md",
     "Деревня/Notes.md",
     "assets/i 1.webp",
     "assets/index4.webp",
@@ -304,17 +370,10 @@
     "assets/861_n1578514_big.jpg",
     "assets/1-avtolavka.width-1200.jpg",
     "assets/02.12.22.51.jpg",
-    "assets/Pasted image 20250116153251.png",
     "Деревня",
     "NPC/NPC ideas.md",
     "Механики",
     "NPC/Untitled.md",
-    "NPC/Вожатый деревни.md",
-    "NPC/Глухой музыкант.md",
-    "NPC/Журналист.md",
-    "NPC/Люда.md",
-    "NPC/Лесничий.md",
-    "NPC/Почтальон.md",
     "assets",
     "push_git.bat",
     "NPC",
