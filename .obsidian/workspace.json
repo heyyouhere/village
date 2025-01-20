@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деревня/Дом Вожатого.md",
+                "file": "Деревня/Футбольное поле.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5086555480957
   },
   "right": {
     "id": "404c58e66861b3b9",
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деревня/Дом Вожатого.md",
+                "file": "Деревня/Футбольное поле.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деревня/Дом Вожатого.md",
+                "file": "Деревня/Футбольное поле.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деревня/Дом Вожатого.md"
+                "file": "Деревня/Футбольное поле.md"
               }
             }
           },
@@ -277,23 +277,25 @@
   },
   "active": "a97b31e1ba3bcf61",
   "lastOpenFiles": [
-    "assets/3588357-1385942837.jpg",
-    "Деревня/Клуб.md",
-    "Деревня/Футбольное поле.md",
     "Деревня/Scenes ideas.md",
     "Деревня/Дом Вожатого.md",
+    "Деревня/Клуб.md",
+    "Scenes/Общая структура.md",
+    "Scenes/1. Акт первый. Вас тут не ждали.md",
+    "Деревня/Автолавка.md",
     "Деревня/Огород с пугалом.md",
+    "Деревня/Футбольное поле.md",
     "NPC/Взрослые дети.md",
+    "NPC/Вожатый деревни.md",
+    "NPC/Глухой музыкант.md",
+    "assets/3588357-1385942837.jpg",
     "Механики.md",
     "Корнет.md",
     "Scenes/3. Акт третий..md",
-    "Scenes/Общая структура.md",
     "Scenes/2. Акт второй. Берегись своих желаний..md",
-    "Scenes/1. Акт первый. Вас тут не ждали.md",
     "Scenes/0. Пролог.md",
     "Rules of writing.md",
     "Референсы (не разобранные).md",
-    "Деревня/Автолавка.md",
     "Деревня/Notes.md",
     "assets/i 1.webp",
     "assets/index4.webp",
@@ -304,13 +306,10 @@
     "assets/861_n1578514_big.jpg",
     "assets/1-avtolavka.width-1200.jpg",
     "assets/02.12.22.51.jpg",
-    "assets/Pasted image 20250116153251.png",
     "Деревня",
     "NPC/NPC ideas.md",
     "Механики",
     "NPC/Untitled.md",
-    "NPC/Вожатый деревни.md",
-    "NPC/Глухой музыкант.md",
     "NPC/Журналист.md",
     "NPC/Люда.md",
     "NPC/Лесничий.md",
