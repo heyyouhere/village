@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"81ae6c9ff4f332aa","x":-355,"y":223,"width":400,"height":400,"color":"6","type":"file","file":"NPC/Лесничий.md"},
+		{"id":"7b143a78396c55c0","x":45,"y":223,"width":435,"height":400,"color":"6","type":"file","file":"NPC/Гадалка на пчелах.md"},
+		{"id":"5c93cdb160c146fc","x":-355,"y":623,"width":400,"height":400,"color":"6","type":"file","file":"NPC/Заброшенный дом.md"},
+		{"id":"0c17641ea914e433","x":45,"y":623,"width":435,"height":400,"color":"6","type":"file","file":"NPC/Слишком умная сука.md"},
+		{"id":"aad00ba65db9dc88","x":-155,"y":1023,"width":400,"height":400,"color":"6","type":"file","file":"NPC/Черт в табакерке.md"},
+		{"id":"969977d0d8405b7c","x":2800,"y":446,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Люда.md"},
+		{"id":"8a688f229122f225","x":2800,"y":846,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Красавица на балконе.md"},
+		{"id":"f715e9cc763086bb","x":2800,"y":1246,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Экскурсовод.md"},
+		{"id":"45271917857e001c","x":2400,"y":1246,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Шериф.md"},
+		{"id":"7eba365cd9a73c25","x":2400,"y":846,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Режиссёр.md"},
+		{"id":"708d8d310944fe05","x":2400,"y":446,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Механик.md"},
+		{"id":"6088cfd302ba043e","x":2600,"y":23,"width":400,"height":400,"color":"3","type":"file","file":"NPC/Вожатый деревни.md"},
+		{"id":"6592304fd1a1d667","x":961,"y":-640,"width":400,"height":400,"type":"file","file":"NPC/Ювелир.md"},
+		{"id":"7d101f6449cbbc53","x":1361,"y":-640,"width":400,"height":400,"type":"file","file":"NPC/Почтальон.md"},
+		{"id":"1703c35a8e826323","x":1161,"y":223,"width":400,"height":400,"type":"file","file":"NPC/Взрослые дети.md"},
+		{"id":"11d40211960b53be","x":1161,"y":646,"width":400,"height":400,"type":"file","file":"NPC/Глухой музыкант.md"},
+		{"id":"6535ff8f239777c9","x":1161,"y":1046,"width":400,"height":400,"type":"file","file":"NPC/Улиткин.md"}
+	],
+	"edges":[]
+}

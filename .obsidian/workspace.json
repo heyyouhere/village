@@ -13,158 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules of writing.md",
+                "file": "NPC/Ювелир.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ceed300e356ce51",
+            "id": "32b5efb2dcea1c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules of writing.md",
+                "file": "NPC/Вожатый деревни.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3ab2c06d4949ac8",
+            "id": "906930e54a8b2349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деревня/Scenes ideas.md",
+                "file": "Pitch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "362d50bb312fa8fa",
+            "id": "86bfefd687b391c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Глухой музыкант.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e241c0194a63bfba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Деревня/Scenes ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91d6e8d88832eaa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenes/0. Пролог.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c07c61c96209629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenes/0. Пролог.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f20c7fdf178668a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenes/Общая структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a97b31e1ba3bcf61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Глухой музыкант.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaa2ca7e6c508dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Гадалка на пчелах.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38994b9b672d5ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Деревня/Автолавка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "456eddab5dc10995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Лесничий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1abb6e5448f402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules of writing.md",
+                "file": "Pitch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Деревня/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,11 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 269.5086555480957
+    "width": 256.5086555480957
   },
   "right": {
     "id": "404c58e66861b3b9",
@@ -230,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Глухой музыкант.md",
+                "file": "Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Глухой музыкант.md",
+                "file": "Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Глухой музыкант.md"
+                "file": "Pitch.md"
               }
             }
           },
@@ -299,36 +192,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a97b31e1ba3bcf61",
+  "active": "60b10de8a0043498",
   "lastOpenFiles": [
-    "NPC/Журналист.md",
+    "assets/chrome_2020-01-05_19-05-36-1.webp",
+    "План.md",
+    "Pitch.md",
+    "Референсы (неразобранные).md",
+    "Rules of writing.md",
+    "TTRPG inspirations.md",
+    "Vision.md",
+    "Untitled.canvas",
+    "Scenes/Общая структура.md",
+    "Scenes/3. Акт третий..md",
+    "Scenes/2. Акт второй. Берегись своих желаний..md",
+    "NPC/Телефонная будка.md",
+    "Механики.md",
+    "NPC/Взрослые дети.md",
+    "NPC/Владелица трактира.md",
+    "NPC/Вожатый деревни.md",
+    "NPC/Гадалка на пчелах.md",
+    "NPC/Глухой музыкант.md",
     "NPC/Заброшенный дом.md",
     "NPC/Красавица на балконе.md",
     "NPC/Лесничий.md",
-    "NPC/Глухой музыкант.md",
-    "NPC/Гадалка на пчелах.md",
-    "NPC/Вожатый деревни.md",
-    "NPC/Взрослые дети.md",
-    "NPC/Экскурсовод.md",
-    "NPC/NPC ideas.md",
     "NPC/Люда.md",
+    "NPC/Механик.md",
     "NPC/Почтальон.md",
+    "NPC/Режиссёр.md",
+    "NPC/Слишком умная сука.md",
     "NPC/Улиткин.md",
-    "NPC/Черт в табакерке.md",
-    "Scenes/Общая структура.md",
-    "Механики.md",
-    "Деревня/Scenes ideas.md",
-    "Vision.md",
-    "TTRPG inspirations.md",
-    "Rules of writing.md",
-    "Референсы (не разобранные).md",
-    "2025-01-20.md",
-    "План.md",
-    "Деревня/Футбольное поле.md",
-    "Деревня/Огород с пугалом.md",
-    "Деревня/Клуб.md",
+    "assets/1620px-ryazan-_kremlin_p5210574_2350-jpg.jpg",
+    "assets/szhvd009.jpg",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "assets/dc69c3abdf23dba4e380536f2b81c2c7.jpg",
     "assets/3588357-1385942837.jpg",
     "assets/i 1.webp",
@@ -337,8 +232,6 @@
     "assets/675367a371b3c0910d808437048f51aa.jpg",
     "assets/675de5198183311e13d1943c67ee83fc.jpg",
     "assets/scale_1200.jpg",
-    "assets/861_n1578514_big.jpg",
-    "assets/1-avtolavka.width-1200.jpg",
     "Деревня",
     "Механики",
     "assets",
