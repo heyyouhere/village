@@ -16,7 +16,9 @@
                 "file": "NPC/Ювелир.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ювелир"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "NPC/Вожатый деревни.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Вожатый деревни"
             }
           },
           {
@@ -37,10 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pitch.md",
+                "file": "Деревня/Автолавка.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Автолавка"
+            }
+          },
+          {
+            "id": "20fe9fc3e66be80f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -52,11 +70,13 @@
                 "file": "Pitch.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pitch"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -85,13 +107,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Деревня/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,11 +123,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pitch.md",
+                "file": "NPC/Ювелир.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ювелир"
             }
           },
           {
@@ -140,10 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pitch.md",
+                "file": "NPC/Ювелир.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ювелир"
             }
           },
           {
@@ -154,7 +183,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,8 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pitch.md"
-              }
+                "file": "NPC/Ювелир.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ювелир"
             }
           },
           {
@@ -172,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
-              "state": {}
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
             }
           }
         ]
@@ -192,20 +227,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60b10de8a0043498",
+  "active": "20fe9fc3e66be80f",
   "lastOpenFiles": [
+    "Деревня/Дом Вожатого.md",
+    "Деревня/Клуб.md",
+    "Деревня/Кабак.md",
+    "Pitch.md",
+    "Scenes/1. Акт первый. Вас тут не ждали.md",
+    "Корнет.md",
+    "Деревня/Scenes ideas.md",
+    "Scenes/Общая структура.md",
+    "Scenes/Notes.md",
+    "Scenes/0. Пролог.md",
+    "NPC/Улиткин.md",
+    "NPC/Телефонная будка.md",
     "assets/chrome_2020-01-05_19-05-36-1.webp",
     "План.md",
-    "Pitch.md",
     "Референсы (неразобранные).md",
     "Rules of writing.md",
     "TTRPG inspirations.md",
     "Vision.md",
     "Untitled.canvas",
-    "Scenes/Общая структура.md",
     "Scenes/3. Акт третий..md",
     "Scenes/2. Акт второй. Берегись своих желаний..md",
-    "NPC/Телефонная будка.md",
     "Механики.md",
     "NPC/Взрослые дети.md",
     "NPC/Владелица трактира.md",
@@ -213,14 +257,6 @@
     "NPC/Гадалка на пчелах.md",
     "NPC/Глухой музыкант.md",
     "NPC/Заброшенный дом.md",
-    "NPC/Красавица на балконе.md",
-    "NPC/Лесничий.md",
-    "NPC/Люда.md",
-    "NPC/Механик.md",
-    "NPC/Почтальон.md",
-    "NPC/Режиссёр.md",
-    "NPC/Слишком умная сука.md",
-    "NPC/Улиткин.md",
     "assets/1620px-ryazan-_kremlin_p5210574_2350-jpg.jpg",
     "assets/szhvd009.jpg",
     "Untitled 1.canvas",
@@ -231,7 +267,6 @@
     "assets/preview_1685f8be24e6f8b13b47aa61d352a501.jpg",
     "assets/675367a371b3c0910d808437048f51aa.jpg",
     "assets/675de5198183311e13d1943c67ee83fc.jpg",
-    "assets/scale_1200.jpg",
     "Деревня",
     "Механики",
     "assets",
