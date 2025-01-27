@@ -25,3 +25,4 @@ I really like aspects and all this stuff, however, i dont see how it can be impl
 Explosive dice -- yes, i love it.
 Broken curve of distribution. 
 Love wound system. It is simple, and ellagent.
+

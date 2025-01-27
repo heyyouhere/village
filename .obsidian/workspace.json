@@ -62,6 +62,20 @@
             }
           },
           {
+            "id": "fc40a31e2943dfce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Черт в табакерке.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Черт в табакерке"
+            }
+          },
+          {
             "id": "86bfefd687b391c6",
             "type": "leaf",
             "state": {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,13 +218,24 @@
             "id": "cb479643dbc519e7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "17db985e19d5a044",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,36 +252,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20fe9fc3e66be80f",
+  "active": "fc40a31e2943dfce",
   "lastOpenFiles": [
-    "Деревня/Дом Вожатого.md",
-    "Деревня/Клуб.md",
-    "Деревня/Кабак.md",
-    "Pitch.md",
-    "Scenes/1. Акт первый. Вас тут не ждали.md",
-    "Корнет.md",
-    "Деревня/Scenes ideas.md",
-    "Scenes/Общая структура.md",
-    "Scenes/Notes.md",
-    "Scenes/0. Пролог.md",
-    "NPC/Улиткин.md",
     "NPC/Телефонная будка.md",
-    "assets/chrome_2020-01-05_19-05-36-1.webp",
-    "План.md",
-    "Референсы (неразобранные).md",
-    "Rules of writing.md",
-    "TTRPG inspirations.md",
-    "Vision.md",
-    "Untitled.canvas",
-    "Scenes/3. Акт третий..md",
-    "Scenes/2. Акт второй. Берегись своих желаний..md",
-    "Механики.md",
-    "NPC/Взрослые дети.md",
-    "NPC/Владелица трактира.md",
-    "NPC/Вожатый деревни.md",
-    "NPC/Гадалка на пчелах.md",
-    "NPC/Глухой музыкант.md",
+    "NPC/Почтальон.md",
+    "NPC/Механик.md",
+    "NPC/Лесничий.md",
     "NPC/Заброшенный дом.md",
+    "NPC/Вожатый деревни.md",
+    "NPC/Владелица трактира.md",
+    "NPC/Взрослые дети.md",
+    "NPC/Глухой музыкант.md",
+    "NPC/Красавица на балконе.md",
+    "NPC/Люда.md",
+    "Деревня/Клуб.md",
+    "Деревня/Футбольное поле.md",
+    "Деревня/Scenes ideas.md",
+    "Деревня/Огород с пугалом.md",
+    "Деревня/Кабак.md",
+    "Деревня/Двойной дом.md",
+    "Деревня/Автолавка.md",
+    "Деревня/Дом Вожатого.md",
+    "Деревня/Дом с трубами.md",
+    "Детектив.md",
+    "Корнет.md",
+    "Механики.md",
+    "Референсы (неразобранные).md",
+    "Scenes/0. Пролог.md",
+    "Scenes/1. Акт первый. Вас тут не ждали.md",
+    "Untitled.canvas",
+    "assets/chrome_2020-01-05_19-05-36-1.webp",
     "assets/1620px-ryazan-_kremlin_p5210574_2350-jpg.jpg",
     "assets/szhvd009.jpg",
     "Untitled 1.canvas",
