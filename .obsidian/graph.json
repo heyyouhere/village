@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 7226320
+      }
+    },
+    {
+      "query": "path:Деревня  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Quests  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "nodeSizeMultiplier": 1.37712230215827,
+  "lineSizeMultiplier": 2.52104316546763,
+  "collapse-forces": false,
+  "centerStrength": 0.477697841726619,
   "repelStrength": 10,
-  "linkStrength": 1,
+  "linkStrength": 0.698047276464543,
   "linkDistance": 250,
-  "scale": 0.8543843751230679,
-  "close": true
+  "scale": 0.8543843751230693,
+  "close": false
 }

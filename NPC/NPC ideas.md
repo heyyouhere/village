@@ -1,5 +1,5 @@
 # Villagers
-- Buisness-man father of 8 daughters
+- Buisness-man father of 3 daughters
 - Кредитор
 - Local Sheriff
 - Настоятель монастыря
